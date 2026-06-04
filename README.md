@@ -4,4 +4,4 @@
 
 ### Main Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=javascript&labelColor-white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-CC292B?style=for-the-badge&logo=sqlite&labelColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-CC292B?style=for-the-badge&logo=sql&labelColor=white)&nbsp;
